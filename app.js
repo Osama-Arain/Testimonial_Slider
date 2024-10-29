@@ -21,7 +21,7 @@ const reviews = [
     {
         name: "Sawera Chaudhary",
         position: "Digital Marketer",
-        description: "Fatima excels in digital marketing strategies, focusing on SEO and content marketing to boost brand visibility.",
+        description: "Sawera excels in digital marketing strategies, focusing on SEO and content marketing to boost brand visibility.",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXr2qkGD4stWa9QlMy-NL4OuvWwDhlGlz6Q&s"
     }
 ];
